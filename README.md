@@ -76,5 +76,4 @@
 
 <p>I made small mistakes in both designs but nothing that can't be fixed with a few patches.<br>PCBs that use the Qi standard communicate with the transmitter and require continuous delivery of power. On the contrary, the other PCBs normally blink. By placing both types above the transmitter, it is possible to have a constant transmission on both of them.</p>
 
-
-<div class="video-container"><iframe style="width: 500px; height: 281px;" src="//www.youtube.com/embed/qF8k0b99KyQ" frameborder="0" allowfullscreen=""></iframe></div>
+<a href="//www.youtube.com/embed/qF8k0b99KyQ">Youtube Video</a>.
