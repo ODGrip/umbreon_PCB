@@ -1,3 +1,5 @@
+<p>This article was sponsored by JLCPCB [ https://jlcpcb.com/].</p>
+
 <p>Browsing the social media of electronics enthusiasts I found a pokèmon-style PCB and I thought I'd make one too.<br></p>
 
 <figure><img class="lazy" src="https://cdn.hackaday.io/images/2678691612370396424.PNG"></figure>
